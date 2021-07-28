@@ -6,3 +6,5 @@ def func():
 
 func()
 Added something
+
+Added even more for you!
